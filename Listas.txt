@@ -1,0 +1,76 @@
+•	-Lista de comandos:
+Pegar
+Subir
+Percepção
+Ajuda
+Abrir
+Poção
+Status
+Inventário
+Norte 
+Sul 
+Leste 
+Oeste
+
+
+
+
+•	-Lista monstros:
+
+Lobisomens - Vida: 75 Dano:18
+Orcs - Vida: 85 Dano:35
+Troll - Vida: 85 Dano:15
+Aranha gigante - Vida: 85 Dano:15
+Gigante das bolas de ouro - Vida: 90 Dano:15
+Orda de zumbi - Vida: 50 Dano:10
+Vampiro e a Sereia - Vida: 90 Dano:10
+Dragão asa de mosca - Vida: 100 Dano:25
+
+
+
+
+•	-Lista itens
+Ouro
+Poção
+O artefato magico 
+
+Espadas
+Espada da Benção da Princesa [+10 Atk] - Historia
+Espada da Lei da Pedra Grande [+3 Atk] - T3
+Espada do Rei Caído [+2 Atk] - T4
+
+Armaduras
+Armadura de Felas [+2 Def] - Vampiro e a Sereia
+Armadura Mágica de Ârnica [+3 Def] - T2
+Armadura Dura de Casca de Cinamomo [+5 Def] - T1
+
+Escudos
+Escudo Tenatoriano de Temeria [+3 Def] - Horda de Zombies
+Escudo Anti-Chama Draconiana [+5 Def] - Aranha Gigante
+Escudo Élfico [+7 Def] - ORC
+
+T1 - [10][5] - Tesouro na Sala do Troll
+T2 - [18][16] - Tesouro na Sala da Aranha Gigante
+T3 - [8][12] - Corredor Sala Dragão
+T4 - [18][6] - Entrada pela Porta Principal
+
+
+
+
+Lista de ações:
+a > você encontrou uma aranha; Vetor[0]
+b > você encontrou um Troll; Vetor[1]
+c > você encontrou o gigante de bolas de ouro; Vetor[2]
+d >  VOCE CHEGOU NO CHEFAO O DRAGAO ASA DE MOSCA ATRAS DELE ESTA O OBJETO E A SAIDA;Vetor[3]
+e > você encontrou uma escada;
+f > você encontrou um lobisomem copulando com três cadelas do mato carniceiras no cio, você atrapalhou a aventuras deles sofra com as consequências; Vetor[4]
+g > você está diante de um corredor escuro;
+h > você encontrou uma porta;
+o > você encontrou um Orc. Vetor[5]
+p > porta está fechada você não pode retorna;
+t > você encontrou um tesouro;
+u > buraco você não consegue voltar;
+v> você encontrou um vampiro e duas sereias lesbianas; Vetor[6]
+x > encruzilhada;
+z> você encontrou uma horda de 15 zumbis; Vetor[7]
+
